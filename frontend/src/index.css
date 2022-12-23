@@ -1,0 +1,97 @@
+.notification {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: green;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: red;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blog {
+  background-color: rgba(192, 225, 255, 0.303);
+  padding: 10px;
+  margin-top: 10px;
+  padding-left: 2px;
+  border: solid;
+  border-width: 2px;
+  margin-bottom: 5px;
+  box-shadow: 4px 4px 15px -7px rgba(0, 0, 0, 0.89);
+  border-radius: 15px;
+}
+
+.blog-form-input {
+  margin-left: 10px;
+  margin-top: 1px;
+}
+
+.blog-details {
+  background-color: rgba(240, 240, 240, 0.56);
+  border: solid;
+  border-width: 2px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  box-shadow: 4px 4px 15px -7px rgba(0, 0, 0, 0.89);
+  border-radius: 15px;
+}
+
+.blog-link {
+  padding: 10px;
+}
+
+.users-table {
+  background-color: rgb(192, 225, 255);
+  border: solid;
+  border-width: 1px;
+  padding: 10px;
+}
+
+.user {
+  background-color: rgb(192, 225, 255);
+  padding: 5px;
+  border: solid;
+  border-width: 1px;
+}
+
+.blog-form {
+  background-color: rgba(240, 240, 240, 0.56);
+  padding: 5px;
+  border: solid;
+  border-width: 1px;
+}
+
+.remove {
+  background-color: red;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.navigation {
+  background-color: rgb(192, 225, 255);
+  padding: 5px;
+  border-style: double;
+}
+
+.username-and-logout {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.padding {
+  padding-right: 5px;
+}

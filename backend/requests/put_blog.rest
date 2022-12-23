@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/62c0232d6b4e64c86c4d063a
+Content-Type: application/json
+
+{
+  "user": "62b974184384e1c61df180d1",
+  "title": "eka blogi PUT",
+  "author": "vallun",
+  "url": "asdasd",
+  "likes": 0
+}
