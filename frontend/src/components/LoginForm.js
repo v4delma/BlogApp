@@ -34,6 +34,12 @@ const LoginForm = ({
           </Button>
         </Form.Group>
       </Form>
+
+      <div className="mt-5">
+        <h6>Testikäyttäjä</h6>
+        <p className="mb-0">Username: teppo</p>
+        <p>Password: testaa</p>
+      </div>
     </div>
   );
 };

@@ -4,7 +4,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 const Blogs = ({ blogs }) => {
   return (
     <div>
-      <h2>Blogs</h2>
+      <h2 className="mt-4">Blogs</h2>
       <ListGroup>
         {blogs.map((blog) => (
           <ListGroup.Item key={blog.id}>

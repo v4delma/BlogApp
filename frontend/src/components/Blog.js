@@ -46,8 +46,6 @@ const Blog = (props) => {
           </Card.Title>
           <Card.Text>
             <div>{blog.likes} likes</div>
-
-            <div>added by {blog.author}</div>
             <Button onClick={like} disabled={props.likeButtonDisabled}>
               Like
             </Button>
